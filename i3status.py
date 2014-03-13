@@ -86,7 +86,7 @@ status.register("disk",
 #
 # Note: requires libpulseaudio from PyPI
 status.register("pulseaudio",
-    format="♪{volume}",)
+    format="♪{volume}{muted}",)
 
 # Shows mpd status
 # Format:
