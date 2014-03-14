@@ -176,3 +176,5 @@ exec nm-applet
 exec touchpadconf.sh
 exec pidgin
 exec clipit
+exec nuvolaplayer
+
